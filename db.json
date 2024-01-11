@@ -54,5 +54,46 @@
       "date": "2024-01-11",
       "time": "10:00"
     }
+  ],
+  "excursions": [
+    {
+      "id": 15,
+      "title": "Gdańsk - Miasto nad morzem",
+      "description": "Odwiedź urokliwe miasto nad morzem Bałtyckim - Gdańsk. Zwiedzaj Muzeum II Wojny Światowej, spaceruj po długim molo i poznawaj historię miasta. Cena biletu dla dorosłego: 430 PLN, cena biletu dla dziecka: 215 PLN.",
+      "adultPrice": 430,
+      "childPrice": 215
+    },
+    {
+      "title": "Morska przygoda w Gdańsku",
+      "description": "Rozpocznij swoją morską przygodę w Gdańsku! Ta wycieczka pozwoli Ci odkryć urok miasta nad Bałtykiem. Zwiedzaj Muzeum II Wojny Światowej, spaceruj po długim molo i ciesz się pięknymi widokami. Cena biletu dla dorosłego: 150 PLN, cena biletu dla dziecka: 75 PLN.",
+      "adultPrice": 150,
+      "childPrice": 75,
+      "id": 16
+    },
+    {
+      "title": "Wycieczka testowa",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque commodo rhoncus velit, in congue velit. Aliquam non sapien efficitur, tristique arcu et, placerat est. Maecenas suscipit nibh et nibh gravida gravida. Sed luctus lectus pellentesque, mollis nibh vel, tincidunt dolor. Pellentesque hendrerit.",
+      "adultPrice": 225,
+      "childPrice": 135,
+      "id": 17
+    }
+  ],
+  "orders": [
+    {
+      "name": "Maciek",
+      "email": "maciek@maciek.com",
+      "items": [
+        {
+          "title": "Historia i Kultura Gdańska",
+          "adults": 2,
+          "adultPrice": 230,
+          "children": 2,
+          "childPrice": 115,
+          "totalPrice": 690
+        }
+      ],
+      "total": 690,
+      "id": 1
+    }
   ]
 }
