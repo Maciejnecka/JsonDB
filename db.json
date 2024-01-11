@@ -28,5 +28,31 @@
       "isDone": false,
       "isRemoved": false
     }
+  ],
+  "meetings": [
+    {
+      "id": "8e5d6041-5ac9-45e0-ab7b-ebe82eade047",
+      "firstName": "Adam",
+      "lastName": "Kowalski",
+      "email": "adam.kowalski@gmail.com",
+      "date": "2024-01-21",
+      "time": "10:30"
+    },
+    {
+      "id": "c99b2be8-a20b-457a-966e-e8346e00847e",
+      "firstName": "Adam",
+      "lastName": "Kowalski",
+      "email": "ada.kowalski@gmail.com",
+      "date": "2024-01-01",
+      "time": "10:00"
+    },
+    {
+      "id": "21131db3-6aed-42e8-8590-06d6ba7a3bec",
+      "firstName": "Adam",
+      "lastName": "Kowalski",
+      "email": "adam.kowalski@gmail.com",
+      "date": "2024-01-11",
+      "time": "10:00"
+    }
   ]
 }
